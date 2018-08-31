@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Karmyatra</string>
+
+    <string name="start">Start Trip</string>
+    <string name="end">End Trip</string>
+    <string name="start_of_trip">Start of Trip</string>
+    <string name="location">Location</string>
+    <string name="lastlocation">Last Known Location</string>
+    <string name="unknown">Latitude, Longitude</string>
+    <string name="time">Time</string>
+    <string name="time_format">DD/MM/YYYY HH:MM:SS</string>
+    <string name="current_position">Current Position</string>
+
+    <string name="started">Trip Started</string>
+    <string name="PIGT">PIGT</string>
+    <string name="PGA">PGA</string>
+    <string name="MABN">MABN</string>
+    <string name="GUNA">GUNA</string>
+    <string name="UNKWN">Away from a station</string>
+    <string name="SyncData">Sync Data</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
